@@ -1,0 +1,4 @@
+env/
+myenv/
+fe/
+07_IMDB_RS/movie-recommender-system-tmdb-dataset-main/similarity.pkl
